@@ -1,0 +1,20 @@
+{
+  "name": "am-node-server",
+  "version": "1.0.0",
+  "description": "Node.js Lesson",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlarcher531/am-node-server.git"
+  },
+  "author": "Mike A.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlarcher531/am-node-server/issues"
+  },
+  "homepage": "https://github.com/mlarcher531/am-node-server#readme"
+}
