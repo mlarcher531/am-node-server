@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mlarcher531/am-node-server/issues"
   },
-  "homepage": "https://github.com/mlarcher531/am-node-server#readme"
+  "homepage": "https://github.com/mlarcher531/am-node-server#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
 }
